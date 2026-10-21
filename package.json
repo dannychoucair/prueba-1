@@ -1,0 +1,21 @@
+{
+  "name": "prueba-1",
+  "version": "1.0.0",
+  "description": "quiero ver como funciona la conexión",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannychoucair/prueba-1.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dannychoucair/prueba-1/issues"
+  },
+  "homepage": "https://github.com/dannychoucair/prueba-1#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5"
+  }
+}
